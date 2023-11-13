@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "fname": "shimaa",
+    "lname": "samir",
+    "age": 23,
+    "city": "mahalla"
+  },
+  {
+    "id": 2,
+    "fname": "ahmed",
+    "lname": "samir",
+    "age": 30,
+    "city": "cairo"
+  },
+  {
+    "id": 3,
+    "fname": "sara",
+    "lname": "ahmed",
+    "age": 31,
+    "city": "alex"
+  },
+  {
+    "id": 5,
+    "fname": "shimaa",
+    "lname": "samir",
+    "age": 23,
+    "city": "mahalla"
+  },
+  {
+    "id": 7,
+    "fname": "ahmed",
+    "lname": "shade",
+    "age": 30,
+    "city": "cairo"
+  }
+]
